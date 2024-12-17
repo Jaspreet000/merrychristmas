@@ -140,7 +140,7 @@ export default function Home() {
                       
                       <div className="space-y-4 sm:space-y-6 font-sans">
                         <p className="text-base sm:text-lg leading-relaxed text-[#4a3333] dark:text-[#e4c1c1] first-letter:text-4xl sm:first-letter:text-5xl first-letter:font-playfair first-letter:font-bold first-letter:mr-2 first-letter:float-left first-letter:text-[#9d3535]">
-                          To a beautiful soul whose gentle presence brightens every room she enters. Though we haven't met, your Asian heritage speaks of rich traditions and deep cultural values that make you uniquely special.
+                          To a beautiful soul whose gentle presence brightens every room she enters. Though we haven&apos;t met, your Asian heritage speaks of rich traditions and deep cultural values that make you uniquely special.
                         </p>
                         
                         <p className="text-base sm:text-lg leading-relaxed text-[#4a3333] dark:text-[#e4c1c1]">
@@ -179,7 +179,7 @@ export default function Home() {
 
                       <div className="bg-white/20 backdrop-blur-sm p-6 sm:p-8 rounded-2xl shadow-xl border border-[#e4c1c1] dark:border-[#3a2020] text-center">
                         <p className="text-lg sm:text-xl font-playfair text-[#9d3535] dark:text-[#ff9898] italic mb-2 sm:mb-3 tracking-wide">
-                          "Ang bawat sandali ay isang regalo, tulad mo - isang blessing sa aming lahat"
+                          &ldquo;Ang bawat sandali ay isang regalo, tulad mo - isang blessing sa aming lahat&rdquo;
                         </p>
                         <p className="text-sm sm:text-base text-[#4a3333] dark:text-[#e4c1c1] font-medium">
                           (Every moment is a gift, just like you - a blessing to us all)

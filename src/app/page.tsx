@@ -135,7 +135,7 @@ export default function Home() {
                   >
                     <div className="space-y-6 sm:space-y-8">
                       <p className="text-xl sm:text-2xl font-playfair text-[#9d3535] dark:text-[#ff9898] italic tracking-wide">
-                        Nawa'y mapuno ng kagalakan at pagpapala ang iyong Pasko!
+                        Nawa&apos;y mapuno ng kagalakan at pagpapala ang iyong Pasko!
                       </p>
                       
                       <div className="space-y-4 sm:space-y-6 font-sans">
